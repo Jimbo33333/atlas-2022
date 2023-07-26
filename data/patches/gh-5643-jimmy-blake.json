@@ -1,0 +1,32 @@
+{
+	"id": -1,
+	"name": "Jimmy Blake",
+	"description": "2 friends wrote their initials which stands for Jimmy Blake (JB)",
+	"links": {},
+	"path": {
+		"164": [
+			[
+				1973,
+				675
+			],
+			[
+				1979,
+				675
+			],
+			[
+				1979,
+				680
+			],
+			[
+				1973,
+				680
+			]
+		]
+	},
+	"center": {
+		"164": [
+			1976,
+			678
+		]
+	}
+}
